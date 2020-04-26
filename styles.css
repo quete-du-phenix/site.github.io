@@ -1,0 +1,60 @@
+body {
+  background-color: snow ;
+  font-family: "Gill Sans", sans-serif;
+  color : royalblue ;
+  text-align: center ;
+}
+
+h1 {
+  color: lightcoral;
+  font-family: "Gill Sans";
+  font-style: italic;
+  font-stretch: normal;
+}
+
+.centrage {text-align: center;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**********************************
+This section is for styling tables
+***********************************/
+table, th, td {
+  border: 1px solid HoneyDew;
+  border-collapse: collapse;
+}
+tr {
+  background-color: PaleTurquoise;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: purple;
+}
+td {
+  color: purple;
+}
+/********************************/
